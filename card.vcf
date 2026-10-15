@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:増田;智樹;;;
+FN;CHARSET=UTF-8:増田 智樹
+X-PHONETIC-LAST-NAME;CHARSET=UTF-8:ますだ
+X-PHONETIC-FIRST-NAME;CHARSET=UTF-8:ともき
+ORG;CHARSET=UTF-8:株式会社デジタルストリーム;製品開発部
+TITLE;CHARSET=UTF-8:製品開発部 / Product Development Div.
+TEL;TYPE=WORK,VOICE:+81-42-747-0900
+EMAIL;TYPE=WORK,INTERNET:masuda@digitalstream.co.jp
+URL:https://ds-audio.biz/
+NOTE;CHARSET=UTF-8:Masuda Tomoki / Digitalstream Corp. (DS Audio), Product Development Div.
+END:VCARD
